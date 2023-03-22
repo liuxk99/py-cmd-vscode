@@ -1,2 +1,2 @@
-# py-hello-execute
-Python execute template project
+# py-cmd-vscode
+Python cmd template project
